@@ -100,7 +100,7 @@ export default function HomeBanner() {
 const ANIMATION_FLEFT = {
   hidden: {
     opacity: 0,
-    x: "-100%",
+    x: "-120%",
   },
   visible: {
     opacity: 1,
